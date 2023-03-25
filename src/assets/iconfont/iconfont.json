@@ -1,0 +1,65 @@
+{
+  "id": "1889766",
+  "name": "132",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11776583",
+      "name": "ios",
+      "font_class": "ios",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "11776601",
+      "name": "安卓",
+      "font_class": "anzhuo",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1454751",
+      "name": "系统日志",
+      "font_class": "xitongrizhi",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "7791021",
+      "name": "汽车",
+      "font_class": "qiche",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "1119365",
+      "name": "账户管理",
+      "font_class": "zhanghuguanli",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "6237071",
+      "name": "钱",
+      "font_class": "tubiaozhizuo-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8102713",
+      "name": "信息",
+      "font_class": "icon-test",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11121415",
+      "name": "交易日志",
+      "font_class": "jiaoyirizhi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    }
+  ]
+}
